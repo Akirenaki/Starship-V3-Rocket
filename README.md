@@ -4,8 +4,8 @@ A two-stage, parachute-free rocket designed and simulated in OpenRocket for **BI
 
 The rocket replays the Falcon 9 Crew-9 launch from Cape Canaveral using a real wind profile, climbs to a 3,000 m apogee, separates its stages, and tries to land both using timed engine burns only: no parachutes, no active guidance.
 
-**Authors:** khomeng.khomey (Khomey) and Renee
-**Competition result:** [add once announced]
+**Authors:** khomeng.khomey (Khomey) and [Renee](https://akirenaki.github.io/)\
+**Competition result:** Silver Tier, ranked 16th at the international level (Level III, Falcon rocket) with a score of −3,150,147.609, as team Semoga Menang 6767. See the details at the [OSIFOG/BIRST official website](https://osifog.com.br/premiados-2026.html)
 
 ![3D render of the rocket](images/rocket-3d.png)
 
@@ -137,6 +137,12 @@ Next time we would spend more effort tuning ignition timing and motor choice for
 
 OpenRocket 24.12 (design and flight simulation) · OpenWind (atmosphere and wind profile) · OpenEarth / Google Earth (trajectory visualisation)
 
-## Credits
+## Credits & Contact Information
 
-Designed by [Name A] and [Name B]. Competition rules and scoring are from the BIRST 2026 regulations and the Level 3 mission documents.
+Designed by Khomey and Renee. Competition rules and scoring are from the BIRST 2026 regulations and the Level 3 mission documents.
+
+
+- Khomey's LinkedIn: https://www.linkedin.com/in/husein-khomeini-diansya-walandri-b20369352/
+- Renee's Portfolio: https://akirenaki.github.io/
+- Renee's GitHub: https://github.com/Akirenaki
+- Renee's LinkedIn: https://www.linkedin.com/in/renee-astraea/
